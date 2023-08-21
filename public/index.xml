@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>極速車神大佬 blog</title>
-    <link>http://racercode.github.io/</link>
+    <link>https://racercpcode.onrender.com/</link>
     <description>Recent content on 極速車神大佬 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2023 23:21:18 +0100</lastBuildDate><atom:link href="http://racercode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 23:21:18 +0100</lastBuildDate><atom:link href="https://racercpcode.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>temas</title>
-      <link>http://racercode.github.io/categoria/temas/</link>
+      <link>https://racercpcode.onrender.com/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>http://racercode.github.io/categoria/temas/</guid>
+      <guid>https://racercpcode.onrender.com/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>http://racercode.github.io/categoria/sintaxe/</link>
+      <link>https://racercpcode.onrender.com/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>http://racercode.github.io/categoria/sintaxe/</guid>
+      <guid>https://racercpcode.onrender.com/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>http://racercode.github.io/tags/shortcodes/_index.pt-br/</link>
+      <link>https://racercpcode.onrender.com/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>http://racercode.github.io/tags/shortcodes/_index.pt-br/</guid>
+      <guid>https://racercpcode.onrender.com/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://racercode.github.io/about/</link>
+      <link>https://racercpcode.onrender.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://racercode.github.io/about/</guid>
+      <guid>https://racercpcode.onrender.com/about/</guid>
       <description> About me Link to heading 明道高級中學國高中部畢業，現為台灣大學資訊工程學系大一生
 高中是一個想打競程卻打不起來的高中生 &amp;gt;&amp;lt;
 因為高中過了三年發現 OJ rating 仍持續低落，所以來寫個 blog 記錄一下刷題日常、督促自己 ~
@@ -49,37 +49,37 @@
     
     <item>
       <title></title>
-      <link>http://racercode.github.io/about.pt-br/</link>
+      <link>https://racercpcode.onrender.com/about.pt-br/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://racercode.github.io/about.pt-br/</guid>
+      <guid>https://racercpcode.onrender.com/about.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>http://racercode.github.io/contact/</link>
+      <link>https://racercpcode.onrender.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://racercode.github.io/contact/</guid>
+      <guid>https://racercpcode.onrender.com/contact/</guid>
       <description>Me siga em @joaoninguem.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://racercode.github.io/projects/</link>
+      <link>https://racercpcode.onrender.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://racercode.github.io/projects/</guid>
+      <guid>https://racercpcode.onrender.com/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>http://racercode.github.io/projects/</link>
+      <link>https://racercpcode.onrender.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://racercode.github.io/projects/</guid>
+      <guid>https://racercpcode.onrender.com/projects/</guid>
       <description>Nada para ver aqui.. Circulando!</description>
     </item>
     
