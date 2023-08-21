@@ -1,0 +1,4 @@
+baseURL = 'http://racercode.github.io/'
+languageCode = 'en-us'
+title = '極速車神大佬 blog'
+theme = 'hugo-coder'
