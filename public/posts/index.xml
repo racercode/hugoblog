@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>極速車神大佬 blog</title>
-    <link>https://racercpcode.onrender.com/</link>
-    <description>Recent content on 極速車神大佬 blog</description>
+    <title>Posts on 極速車神大佬 blog</title>
+    <link>https://racercpcode.onrender.com/posts/</link>
+    <description>Recent content in Posts on 極速車神大佬 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2023 22:03:43 +0800</lastBuildDate><atom:link href="https://racercpcode.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 22:03:43 +0800</lastBuildDate><atom:link href="https://racercpcode.onrender.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>來選大一上選課</title>
       <link>https://racercpcode.onrender.com/posts/class_1/</link>
@@ -32,46 +32,6 @@
       
       <guid>https://racercpcode.onrender.com/posts/cf_1638d/</guid>
       <description>#include &amp;lt;bits/stdc++.h&amp;gt; #define pb push_back #define pii pair&amp;lt;int, int&amp;gt; #define endl &amp;#39;\n&amp;#39; #define iofaster ios::sync_with_stdio(0);cin.tie(0); #define all(x) x.begin(), x.end() #define int long long using namespace std; const int maxn = 1e3 + 5; int mat[maxn][maxn]; int pw[8][2] = {{1, -1}, {0, -1}, {-1, -1}, {-1, 0}, {-1, 1}, {0, 1}, {1, 1}, {1, 0}}; int n, m; inline bool check(int x, int y) { if(x &amp;gt;= n or y &amp;gt;= m or x &amp;lt;= 0 or y &amp;lt;= 0) return false; int a = mat[x][y], b = mat[x + 1][y], c = mat[x + 1][y + 1], d = mat[x][y + 1]; if(a == 0) { int num = b | c | d; if(b !</description>
-    </item>
-    
-    <item>
-      <title>temas</title>
-      <link>https://racercpcode.onrender.com/categoria/temas/</link>
-      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      
-      <guid>https://racercpcode.onrender.com/categoria/temas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sintaxe</title>
-      <link>https://racercpcode.onrender.com/categoria/sintaxe/</link>
-      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      
-      <guid>https://racercpcode.onrender.com/categoria/sintaxe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Códigos curtos</title>
-      <link>https://racercpcode.onrender.com/tags/shortcodes/_index.pt-br/</link>
-      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      
-      <guid>https://racercpcode.onrender.com/tags/shortcodes/_index.pt-br/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://racercpcode.onrender.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://racercpcode.onrender.com/about/</guid>
-      <description> About me Link to heading 明道高級中學國高中部畢業，現為台灣大學資訊工程學系大一生
-高中是一個想打競程卻打不起來的高中生 &amp;gt;&amp;lt;
-因為高中過了三年發現 OJ rating 仍持續低落，所以來寫個 blog 記錄一下刷題日常、督促自己 ~
-有學弟妹想問關於高中該怎麼準備讀資工的歡迎來問我 !
-經歷 Link to heading APCS 5/5 第二屆明道程式競賽培訓計畫 MDCPP 總召 &amp;amp; 講師 Online Judge Link to heading Codeforces Atcoder 聯絡方式 Link to heading Email: gary940610@gmail.com Facebook </description>
     </item>
     
   </channel>
