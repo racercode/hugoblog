@@ -6,7 +6,17 @@
     <description>Recent content in Posts on 極速車神大佬 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2023 22:03:43 +0800</lastBuildDate><atom:link href="https://racercpcode.onrender.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Aug 2023 10:26:42 +0800</lastBuildDate><atom:link href="https://racercpcode.onrender.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CF 1426F (2000)</title>
+      <link>https://racercpcode.onrender.com/posts/cf_1426f/</link>
+      <pubDate>Tue, 22 Aug 2023 10:26:42 +0800</pubDate>
+      
+      <guid>https://racercpcode.onrender.com/posts/cf_1426f/</guid>
+      <description>耍蠢QQ，連 a 的次數都不會算 = =
+#include &amp;lt;iostream&amp;gt; #include &amp;lt;vector&amp;gt; #include &amp;lt;set&amp;gt; #include &amp;lt;map&amp;gt; #include &amp;lt;queue&amp;gt; #include &amp;lt;deque&amp;gt; #include &amp;lt;algorithm&amp;gt; #include &amp;lt;cstring&amp;gt; #include &amp;lt;cmath&amp;gt; #include &amp;lt;iomanip&amp;gt; #include &amp;lt;unordered_map&amp;gt; #include &amp;lt;bitset&amp;gt; #define pb push_back #define pii pair&amp;lt;int, int&amp;gt; #define f first #define s second #define lowbit(x) (x &amp;amp; -x) #define endl &amp;#39;\n&amp;#39; #define i1 (i &amp;lt;&amp;lt; 1) #define i2 (i &amp;lt;&amp;lt; 1 | 1) #define iofaster ios::sync_with_stdio(0);cin.tie(0); #define fr(a) freopen((a), &amp;#34;r&amp;#34;, stdin) #define fw(a) freopen((a), &amp;#34;w&amp;#34;, stdout) #define mset(a, b) memset(a, b, sizeof(a)) #define all(x) x.</description>
+    </item>
+    
     <item>
       <title>來選大一上選課</title>
       <link>https://racercpcode.onrender.com/posts/class_1/</link>
